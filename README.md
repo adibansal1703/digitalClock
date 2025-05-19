@@ -5,10 +5,8 @@ Digital Clock
 # Description 
 A simple digital clock made for practise purposes 
 # Live Demo
-visit: https://adibansal1703.github.io/amazonClone/
+visit: https://adibansal1703.github.io/digitalClock/
 # Screenshots
-![image](https://github.com/user-attachments/assets/c8441451-7941-4250-b5d4-e6827e4989ee)
-![image](https://github.com/user-attachments/assets/6c70ffab-a20f-4327-9967-8d12c5cc0a4f)
-![image](https://github.com/user-attachments/assets/19a9f8fe-fd74-48f0-af2e-74e515443858)
+![image](https://github.com/user-attachments/assets/0175553f-6833-43c5-b127-4a73609dfcee)
 # Author 
 @adibansal1703 //
