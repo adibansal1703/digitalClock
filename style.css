@@ -24,9 +24,9 @@ p{
 }
 #clock{
     height: 200px;
-    width: 1000px;
+    width: 70%;
     color: white;
-    font-size: 8em;
+    font-size: 8vw;
     background-color: #f4d2f1;
     padding: 20px;
     display: flex;
@@ -65,3 +65,65 @@ p{
     z-index: -1;
     background: transparent;
 }
+
+@media (min-width: 350px)and (max-width: 650px){
+    #clock{
+    height: 200px;
+    width: 70%;
+    font-size: 12vw;
+    }
+    .box1{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 95%;
+    left: 20%;
+    }
+    .box2{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    bottom: 45%;
+    left: 67%;
+    }
+    p{
+        visibility: hidden;
+    }
+}
+ /* code installed by chatgpt 
+ @media (max-width: 768px) {
+    .box1, .box2 {
+        height: 100px;
+        width: 100px;
+    }
+
+    .box1 {
+        top: 90%;
+        left: 10%;
+    }
+
+    .box2 {
+        bottom: 50%;
+        left: 60%;
+    }
+}
+h2 {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+@media (max-width: 480px) {
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    p {
+        font-size: 1rem;
+    }
+}
+body {
+    padding: 20px;
+} */
